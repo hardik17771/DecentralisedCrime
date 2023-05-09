@@ -6,7 +6,7 @@ module.exports = {
   networks: {
     hardhat: {
       chainId: 1337,
-    },
+    }, 
   },
   paths: {
     artifacts: "./client/src/artifacts",
